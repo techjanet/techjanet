@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/techjanet/static/css/main.0d0118c2.css",
+    "main.css": "/techjanet/static/css/main.d4aac05f.css",
     "main.js": "/techjanet/static/js/main.0808ff7f.js",
     "static/media/phone-icon.jpg": "/techjanet/static/media/phone-icon.f48c16af13694671adc1.jpg",
     "static/media/twitter-icon.png": "/techjanet/static/media/twitter-icon.a9dad8c5dbbf3965a4f8.png",
@@ -15,11 +15,11 @@
     "static/media/tiktok-icon.png": "/techjanet/static/media/tiktok-icon.e719bbd464eb55b7f2c1.png",
     "static/media/logo.PNG": "/techjanet/static/media/logo.773cbde463f249caee1a.PNG",
     "index.html": "/techjanet/index.html",
-    "main.0d0118c2.css.map": "/techjanet/static/css/main.0d0118c2.css.map",
+    "main.d4aac05f.css.map": "/techjanet/static/css/main.d4aac05f.css.map",
     "main.0808ff7f.js.map": "/techjanet/static/js/main.0808ff7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d0118c2.css",
+    "static/css/main.d4aac05f.css",
     "static/js/main.0808ff7f.js"
   ]
 }
